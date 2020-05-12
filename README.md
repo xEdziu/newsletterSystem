@@ -34,7 +34,7 @@ newsletterSystem files are divided into four categories:
 
 * ```index.php```
   + ```login_admin.html```
-    + ```login_admin.php```
+  + ```login_admin.php```
 
 * ```logs_newsletter.php```
 
