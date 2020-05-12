@@ -39,7 +39,7 @@ newsletterSystem files are divided into four categories:
 * ```logs_newsletter.php```
 
 * ```send_mass.php```
-  + ```send_massXO.php``
+  + ```send_massXO.php```
 
 #### Database
 
