@@ -99,7 +99,7 @@ $smtppass = '';
 
 To make newsletter work, you will need to create 3 tables in your database.
 
-1. ```admin_users```
+**1. ```admin_users```**
 
   * This table is responsible for keeping admin's logins and passwords.
   
@@ -115,7 +115,7 @@ To make newsletter work, you will need to create 3 tables in your database.
   COMMIT;
   ```
 
-2. ```news_messeages```
+**2. ```news_messeages```**
 
   * This table is responsible for keeping all messeages that have been sent.
 
@@ -133,7 +133,7 @@ To make newsletter work, you will need to create 3 tables in your database.
   COMMIT;
   ```
 
-3. ```news_subscribe```
+**3. ```news_subscribe```**
 
   * This table is responsible for keeping emails of users which are signed into your newsletter.
 
