@@ -149,6 +149,10 @@ To make newsletter work, you will need to create 3 tables in your database.
   COMMIT;
   ```
 
+## Vulnerabilities
+
+There is no security in the admin login page. You have to set up your own password hashing and adapt it.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
